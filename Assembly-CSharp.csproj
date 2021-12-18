@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\HitCoin.cs" />
     <Compile Include="Assets\MazeGenerator\Scripts\RollerBall.cs" />
+    <Compile Include="Assets\Scripts\SceneLoadCounter.cs" />
     <Compile Include="Assets\MazeGenerator\Scripts\BasicMazeGenerator.cs" />
     <Compile Include="Assets\MazeGenerator\Scripts\DivisionMazeGenerator.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
@@ -70,7 +71,6 @@
     <Compile Include="Assets\MazeGenerator\Scripts\OldestTreeMazeGenerator.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\FreeCameraLogic.cs" />
     <Compile Include="Assets\MazeGenerator\Scripts\RecursiveTreeMazeGenerator.cs" />
-    <Compile Include="Assets\Scripts\SceneLoadCounter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
