@@ -1,0 +1,240 @@
+[api-updater (non-obsolete-error-filter)] 23/10/2021 16:07:16 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1350,335ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 431ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 17:33:06 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1016,7474ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 242ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 17:33:15 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 121,2669ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 282ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:04:19 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 474,5456ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 246ms
+candidates check time : 62ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:05:07 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103,0641ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 247ms
+candidates check time : 36ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:05:25 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,3745ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 176ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:05:49 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66,9971ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:06:14 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,5395ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 209ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/10/2021 19:06:22 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,5047ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 175ms
+candidates check time : 36ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 26/10/2021 09:47:32 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 934,795ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 273ms
+candidates check time : 33ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 20:28:09 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1890,4445ms
+moved types parse time: 156ms
+candidates parse time : 3ms
+C# parse time         : 611ms
+candidates check time : 103ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 21:08:37 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 377,6247ms
+moved types parse time: 101ms
+candidates parse time : 5ms
+C# parse time         : 611ms
+candidates check time : 119ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 21:10:06 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 209,8548ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 422ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:21:37 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1123,6093ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 299ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:22:01 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 96,8366ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 222ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 12:36:51 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 134,9139ms
+moved types parse time: 53ms
+candidates parse time : 2ms
+C# parse time         : 349ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 12:53:43 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1660,8251ms
+moved types parse time: 52ms
+candidates parse time : 2ms
+C# parse time         : 404ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 12:53:46 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172,4067ms
+moved types parse time: 66ms
+candidates parse time : 2ms
+C# parse time         : 229ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 23:43:16 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1117,3937ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 317ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/12/2021 00:38:36 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 975,0984ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 330ms
+candidates check time : 40ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 15/12/2021 19:48:56 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1225,3379ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 331ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17/12/2021 19:46:30 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1416,5473ms
+moved types parse time: 99ms
+candidates parse time : 2ms
+C# parse time         : 521ms
+candidates check time : 65ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 17/12/2021 19:46:38 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142,3383ms
+moved types parse time: 105ms
+candidates parse time : 3ms
+C# parse time         : 413ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17/12/2021 19:48:19 : Starting C:/Users/Lucas de Souza Silva/Documents/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 760,611ms
+moved types parse time: 162ms
+candidates parse time : 4ms
+C# parse time         : 913ms
+candidates check time : 125ms
+console write time    : 1ms
+
