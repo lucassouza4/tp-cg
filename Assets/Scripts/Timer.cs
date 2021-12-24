@@ -21,7 +21,7 @@ public class Timer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(panel.GetComponent<RectTransform>().localScale == new Vector3(1, 1, 1))
+        if(panel.GetComponent<RectTransform>().localScale == new Vector3(1, 1, 1) && text.text != "0")
         {
             currentTime -= 1 * Time.deltaTime;
             text.text = currentTime.ToString("0");
