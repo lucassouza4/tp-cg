@@ -3,6 +3,7 @@ using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Threading.Tasks;
+using System;
 //<summary>
 //Ball movement controlls and simple third-person-style camera
 //</summary>
@@ -13,6 +14,7 @@ public class HitCoin : MonoBehaviour
 
 	private AudioSource mAudioSource = null;
 
+	public DateTime next;
 	public bool resposta = false;
 	public TMP_Text win;
 	public TMP_Text lose;
@@ -55,29 +57,31 @@ public class HitCoin : MonoBehaviour
 	void Update()
     {
 		qntCoin = GameObject.FindGameObjectsWithTag("Coin");
-		if( resposta == true)
+		if( resposta == true && qntCoin.Length == 0)
         {
+			if(win.rectTransform.localScale != new Vector3(1, 1, 1))
+				next = DateTime.Now.AddMilliseconds(5000);
 			win.rectTransform.localScale = new Vector3(1, 1, 1);
-			//restart(5);
-			Scene scene = SceneManager.GetActiveScene();
-			sc.IncrementSceneLoad(scene, LoadSceneMode.Additive);
-			SceneManager.LoadScene(scene.name);
+			if(next < System.DateTime.Now)
+            {
+				Scene scene = SceneManager.GetActiveScene();
+				sc.IncrementSceneLoad(scene, LoadSceneMode.Additive);
+				SceneManager.LoadScene(scene.name);
+			}
 		}
 		if(tentativas == 0 || time.GetComponent<TextMeshProUGUI>().text == "0")
         {
+			if (lose.rectTransform.localScale != new Vector3(1, 1, 1))
+				next = DateTime.Now.AddMilliseconds(5000);
 			lose.rectTransform.localScale = new Vector3(1, 1, 1);
-			Scene scene = SceneManager.GetActiveScene();
-			SceneManager.LoadScene(scene.name);
+			if (next < System.DateTime.Now)
+            {
+				Scene scene = SceneManager.GetActiveScene();
+				SceneManager.LoadScene(scene.name);
+			}
 		}
 	}
 
-	public void restart(float t)
-    {
-		while(t != 0)
-        {
-			t -= 1 * Time.deltaTime;
-		}
-    }
     public void ClickMenu(Button btn)
     {
 		if (btn.GetComponentInChildren<TextMeshProUGUI>().text == op.getResposta())
